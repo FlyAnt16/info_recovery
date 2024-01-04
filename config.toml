@@ -1,0 +1,17 @@
+# number of samples in a single iteration
+N = 20000
+
+# number of qubits
+n = 2
+
+# the locality of the observable
+k = 2
+
+# number of repeats performed
+num_repeat = 10
+
+# observable parameter
+j_x = 0.27
+j_y = 0.42
+j_z = 0.76
+h_z = 0.6
